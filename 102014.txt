@@ -1,5 +1,0 @@
-"SongName","ArtistName","AlbumName"
-"â¦Like Clockwork","Queens of The Stone Age","Like Clockwork"
-"Love Me Again","Strawberry Alarm Clock","Strawberries Mean Love"
-"Acceptable in the Eighties","Calvin Harris","I Created Disco"
-"This Is the Life","Amy Macdonald","This Is the Life"

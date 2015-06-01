@@ -1,3 +1,0 @@
-"SongName","ArtistName","AlbumName"
-"(Marie's the Name) His Latest Flame","Elvis Presley","The 50 Greatest Hits"
-"Come to the Sabbath","Mercyful Fate","Don't Break the Oath"
